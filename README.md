@@ -1,6 +1,7 @@
-![ossu logo](http://i.imgur.com/kYYCXtC.png)
+![NXFury Information Security](banner.jpg)
 
-OSSU provides an environment where all learners and contributors can feel safe and welcome. This document outlines our community policies and values.
+NXFury Information Security provides an environment where all learners and contributors can feel safe and welcome. This document outlines our community policies and values.
+
 # Rules
 * Learn and help others learn.
 * Be kind and courteous to your fellow OSSUnians.
@@ -17,9 +18,12 @@ OSSU provides an environment where all learners and contributors can feel safe a
 * No stalking or intimidation, online or otherwise.
 * No spamming, trolling, flaming, or other disruptions of the peace.
 * No inappropriate usernames. Moderators will change your name if it is found to be NSFW or derogatory.
+* No changing of usernames/nicknames without informing the moderation team.
 * No advocating or threatening of any of the above behaviors.
+
 # Reporting and Moderation
-Moderators can be emailed at mods@ossu.dev. On the OSSU Discord server, users can use @moderator to alert the mod team about an issue in a channel.
+
+Moderators can be reached by notifying @staff in our discord server.
 
 If you see any behavior that goes against the Code of Conduct, report it to the moderation team as soon as possible, either privately or publicly.
 
@@ -31,4 +35,5 @@ If you feel that you have been treated unjustly, you may contact a moderator or 
 Portions of this Code of Conduct were inspired by the following:
 * [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 * [Rust Lang Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-* The Previous OSSU Code of Conduct, derived from [FrontEnd BR Forum Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+* [FrontEnd BR Forum Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+* [Open Source Society Code of Conduct](https://github.com/ossu/code-of-conduct)
