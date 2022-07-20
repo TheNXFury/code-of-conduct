@@ -4,7 +4,7 @@ NXFury Information Security provides an environment where all learners and contr
 
 # Rules
 * Learn and help others learn.
-* Be kind and courteous to your fellow OSSUnians.
+* Be kind and courteous to your fellow NXFury members.
 * Criticize ideas, not people.
 * Discuss publicly. Refrain from direct messaging people unless it is specifically requested.
 * Ask questions; don't ask to ask. There’s no need to write "Is there anyone that can help me with X?" Just ask about X.
